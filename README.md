@@ -1,1 +1,1 @@
-# Desafio-de-Projetos---Padr-es-de-projeto-com-Java
+# Desafio-de-Projetos---Padroes-de-projeto-com-Java
